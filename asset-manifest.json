@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/WeatherSphere/static/css/main.fb4428ef.css",
+    "main.js": "/WeatherSphere/static/js/main.6cc76feb.js",
+    "static/media/waiting.gif": "/WeatherSphere/static/media/waiting.81453d27bc56443373e9.gif",
+    "static/media/logo.png": "/WeatherSphere/static/media/logo.6adc26432f3b15c4075b.png",
+    "static/media/13d.png": "/WeatherSphere/static/media/13d.600357ebaa4eeb5a3a30.png",
+    "static/media/13n.png": "/WeatherSphere/static/media/13n.600357ebaa4eeb5a3a30.png",
+    "static/media/09d.png": "/WeatherSphere/static/media/09d.fbf6efee4b989a267393.png",
+    "static/media/09n.png": "/WeatherSphere/static/media/09n.fbf6efee4b989a267393.png",
+    "static/media/02d.png": "/WeatherSphere/static/media/02d.c6d437d68df7e6e57a45.png",
+    "static/media/11d.png": "/WeatherSphere/static/media/11d.ff79d3113efc5a5f758f.png",
+    "static/media/11n.png": "/WeatherSphere/static/media/11n.ff79d3113efc5a5f758f.png",
+    "static/media/02n.png": "/WeatherSphere/static/media/02n.0b38712b7dc4157dd5ef.png",
+    "static/media/10d.png": "/WeatherSphere/static/media/10d.5239a9107cda2755584b.png",
+    "static/media/10n.png": "/WeatherSphere/static/media/10n.5239a9107cda2755584b.png",
+    "static/media/01n.png": "/WeatherSphere/static/media/01n.ef47af4dd172976ba794.png",
+    "static/media/03d.png": "/WeatherSphere/static/media/03d.d8413b4d6430300ee2c2.png",
+    "static/media/03n.png": "/WeatherSphere/static/media/03n.d8413b4d6430300ee2c2.png",
+    "static/media/04d.png": "/WeatherSphere/static/media/04d.d8413b4d6430300ee2c2.png",
+    "static/media/04n.png": "/WeatherSphere/static/media/04n.d8413b4d6430300ee2c2.png",
+    "static/media/01d.png": "/WeatherSphere/static/media/01d.b3bd317997ba2cbe1552.png",
+    "static/media/50d.png": "/WeatherSphere/static/media/50d.6715053347f2419d9976.png",
+    "static/media/50n.png": "/WeatherSphere/static/media/50n.6715053347f2419d9976.png",
+    "index.html": "/WeatherSphere/index.html",
+    "main.fb4428ef.css.map": "/WeatherSphere/static/css/main.fb4428ef.css.map",
+    "main.6cc76feb.js.map": "/WeatherSphere/static/js/main.6cc76feb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4428ef.css",
+    "static/js/main.6cc76feb.js"
+  ]
+}
