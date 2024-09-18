@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WeatherSphere/static/css/main.fb4428ef.css",
+    "main.css": "/WeatherSphere/static/css/main.4d39684d.css",
     "main.js": "/WeatherSphere/static/js/main.6cc76feb.js",
     "static/media/waiting.gif": "/WeatherSphere/static/media/waiting.81453d27bc56443373e9.gif",
     "static/media/logo.png": "/WeatherSphere/static/media/logo.6adc26432f3b15c4075b.png",
@@ -23,11 +23,11 @@
     "static/media/50d.png": "/WeatherSphere/static/media/50d.6715053347f2419d9976.png",
     "static/media/50n.png": "/WeatherSphere/static/media/50n.6715053347f2419d9976.png",
     "index.html": "/WeatherSphere/index.html",
-    "main.fb4428ef.css.map": "/WeatherSphere/static/css/main.fb4428ef.css.map",
+    "main.4d39684d.css.map": "/WeatherSphere/static/css/main.4d39684d.css.map",
     "main.6cc76feb.js.map": "/WeatherSphere/static/js/main.6cc76feb.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb4428ef.css",
+    "static/css/main.4d39684d.css",
     "static/js/main.6cc76feb.js"
   ]
 }
