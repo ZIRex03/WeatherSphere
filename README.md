@@ -30,4 +30,4 @@ React-приложение для просмотра прогноза погод
 
 ![Основной прогноз погоды](./screenshots/weather-sphere-home.png)
 
-![Прогноз погоды по часам](./screenshots/weather-sphere-home.png)
+![Прогноз погоды по часам](./screenshots/weather-sphere-hours.png)
