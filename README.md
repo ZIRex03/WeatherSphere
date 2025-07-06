@@ -27,3 +27,5 @@ React-приложение для просмотра прогноза погод
 * OpenWeatherMap API
 
 ### Скриншоты
+
+![Основной прогноз погоды](./screenshots/weather-sphere-home.png)
